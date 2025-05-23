@@ -1,5 +1,5 @@
 ---
-title: Ключ к теософии
+title: Ключ к теософии (Е.П. Блаватская)
 description: Some text
 ---
 
